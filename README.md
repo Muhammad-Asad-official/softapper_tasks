@@ -35,7 +35,7 @@ lets users move around the app smoothly, switching between sections without any 
 everything looking and working the same throughout the app, so users know what to expect. With
 this feature, users can navigate effortlessly and enjoy a more convenient browsing experience.
 
-Design the Registration Form for any booking app
+Task 3: Design the Registration Form for any booking app
 Create a user-friendly registration form where users can input their information. Include fields such
 as:
 • Full Name
